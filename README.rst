@@ -1,3 +1,6 @@
+|travisci|
+
+
 DeLorean PostgreSQL Importer
 *****
 
@@ -140,3 +143,7 @@ License
 .. _virtualenv: https://virtualenv.pypa.io/en/latest/
 .. _Tobias Preuss: https://github.com/johnjohndoe
 .. _Knut Kühne: https://github.com/k-nut/
+
+.. |travisci| image:: https://travis-ci.org/Project-DeLorean/delorean_postgresql_importer.svg
+    :target: https://travis-ci.org/Project-DeLorean/delorean_postgresql_importer
+    :alt: Travis CI build status
