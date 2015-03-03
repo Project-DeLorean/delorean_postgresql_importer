@@ -98,7 +98,9 @@ The script can be started with the following command:
     $ delorean_postgresql_importer
 
 The routine will prompt for the **locations of the configuration
-and SQL files** prepared before.
+and SQL files** prepared before. If you did not setup the files
+correctly or just continue with the default locations you will
+run into error messages.
 
 Tests
 =====
