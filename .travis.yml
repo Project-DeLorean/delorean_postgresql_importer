@@ -8,5 +8,8 @@ os:
 python:
 - 2.7
 
+install:
+- pip install git+git://github.com/Project-DeLorean/delorean_postgresql_importer@master
+
 script:
 - py.test tests
