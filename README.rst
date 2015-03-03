@@ -1,4 +1,4 @@
-|travisci|
+|travisci| |license|
 
 
 DeLorean PostgreSQL Importer
@@ -149,3 +149,6 @@ License
 .. |travisci| image:: https://travis-ci.org/Project-DeLorean/delorean_postgresql_importer.svg
     :target: https://travis-ci.org/Project-DeLorean/delorean_postgresql_importer
     :alt: Travis CI build status
+.. |license| image:: https://img.shields.io/badge/license-AGPLv3%2B-lightgrey.svg
+    :target: http://www.gnu.org/licenses/
+    :alt: GNU Affero General Public License v3 or later (AGPLv3+)
